@@ -27,7 +27,7 @@ O estudo explora o **setor administrativo do Comando Militar do Sudeste (CMSE)**
 - **TypeScript** → Tipagem e manutenção do código  
 - **Tailwind CSS** → Estilização rápida e responsiva  
 - **shadcn/ui** → Componentes de interface modernos  
-- **Lovable.dev** → Geração e deploy do projeto  
+- **Lovable.dev** → Geração inicial do projeto  
 
 ---
 
